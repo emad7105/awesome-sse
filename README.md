@@ -12,7 +12,7 @@ This is a curated list of resources about **Searchable Symmetric Enryption (SSE)
 	- [Blog Posts](#blog-posts)
 	- [Videos](#videos)
 - [Implementations](#implementations)  
-  	- [Constructions]
-	- [Systems]
+  	- [Constructions](#constructions)
+	- [Systems](#systems)
 
 
