@@ -20,10 +20,10 @@ This is a curated list of resources about **Searchable Symmetric Enryption (SSE)
 
 ### Introductory Papers
 
-- CGKO'06, [Searchable symmetric encryption: improved definitions and efficient constructions](https://eprint.iacr.org/2006/210.pdf)
-- CK'10, [Structured Encryption and Controlled Disclosure](https://www.iacr.org/archive/asiacrypt2010/6477581/6477581.pdf)
-- CJJK<sup>+</sup>'13, [Highly-Scalable Searchable Symmetric Encryption with Support for Boolean Queries](https://eprint.iacr.org/2013/169.pdf)
-- CJJJ<sup>+</sup>'14[Dynamic Searchable Encryption in Very-Large Databases: Data Structures and Implementation](https://eprint.iacr.org/2014/853.pdf)
+- [CGKO'06], [Searchable symmetric encryption: improved definitions and efficient constructions](https://eprint.iacr.org/2006/210.pdf)
+- [ChKm'10], [Structured Encryption and Controlled Disclosure](https://www.iacr.org/archive/asiacrypt2010/6477581/6477581.pdf)
+- [CJJ<sup>+</sup>'13], [Highly-Scalable Searchable Symmetric Encryption with Support for Boolean Queries](https://eprint.iacr.org/2013/169.pdf)
+- [CJJ<sup>+</sup>'14], [Dynamic Searchable Encryption in Very-Large Databases: Data Structures and Implementation](https://eprint.iacr.org/2014/853.pdf)
 
 ## Acknowledgements
 I would like to thank all the smart people who have started this exciting field of security and cryptography, and those who have contributed to this relatively young research area. We thank [Fuller et al. 2017](https://arxiv.org/abs/1703.02014) and Raphael Bost ([his website](https://raphael.bost.fyi/se_references/)) whose work has motivated us to make this list.
