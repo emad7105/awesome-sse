@@ -6,13 +6,13 @@ This is a curated list of resources about **Searchable Symmetric Enryption (SSE)
 
 - [Theory](#theory)
 	- [Introductory Papers](#introductory-papers)
-  - [Surveys](#surveys)
+	- [Surveys](#surveys)
 	- [Different Aspects](#different-aspects)
-  - [Attacks](#attacks)
+	- [Attacks](#attacks)
 	- [Blog Posts](#blog-posts)
-  - [Videos](#videos)
+	- [Videos](#videos)
 - [Implementations](#implementations)  
-  - [Constructions]
-  - [Systems]
+  	- [Constructions]
+	- [Systems]
 
 
