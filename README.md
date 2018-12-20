@@ -2,4 +2,17 @@
 
 This is a curated list of resources about **Searchable Symmetric Enryption (SSE)**. It is designed to have a central place where everyone can find open-source implementation of SSE schemes as well as introductory material to this topic.
 
+## Contents
+
+- [Theory](#theory)
+	- [Introductory Papers](#introductory-papers)
+  - [Surveys](#surveys)
+	- [Different Aspects](#different-aspects)
+  - [Attacks](#attacks)
+	- [Blog Posts](#blog-posts)
+  - [Videos](#videos)
+- [Implementations](#implementations)  
+  - [Constructions]
+  - [Systems]
+
 
