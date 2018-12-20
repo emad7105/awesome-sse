@@ -20,7 +20,7 @@ This is a curated list of resources about **Searchable Symmetric Enryption (SSE)
 
 ### Introductory Papers
 
-- [Searchable symmetric encryption: improved definitions and efficient constructions] (https://eprint.iacr.org/2006/210.pdf)
+- [Searchable symmetric encryption: improved definitions and efficient constructions](https://eprint.iacr.org/2006/210.pdf)
 - [Structured Encryption and Controlled Disclosure](https://www.iacr.org/archive/asiacrypt2010/6477581/6477581.pdf)
 - [Highly-Scalable Searchable Symmetric Encryption with Support for Boolean Queries](https://eprint.iacr.org/2013/169.pdf)
 - [Dynamic Searchable Encryption in Very-Large Databases: Data Structures and Implementation](https://eprint.iacr.org/2014/853.pdf)
