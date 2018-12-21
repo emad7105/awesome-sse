@@ -9,7 +9,7 @@ This is a curated list of resources about **Searchable Symmetric Enryption (SSE)
 	- [Surveys](#surveys)
 	- [Different Aspects](#different-aspects)
 	- [Attacks](#attacks)
-	- [Blog Posts](#blog-posts)
+	- [Blogs](#blogs)
 	- [Videos](#videos)
 - [Implementations](#implementations)  
   	- [Constructions](#constructions)
@@ -29,6 +29,27 @@ This is a curated list of resources about **Searchable Symmetric Enryption (SSE)
 
 - [Bösch et al. 2015], [A Survey of Provably Secure Searchable Encryption](https://dl.acm.org/citation.cfm?id=2636328)
 - [Fuller et al. 2017], [SoK: Cryptographically Protected Database Search](https://arxiv.org/abs/1703.02014)
+
+### Different Aspects
+
+
+### Attacks
+
+
+### Blogs
+
+
+### Videos
+
+
+## Implementations
+
+
+### Constructions
+
+
+### Systems
+
 
 ## Acknowledgements
 I would like to thank all the smart people who have started this exciting field of security and cryptography, and those who have contributed to this relatively young research area. We thank [Fuller et al. 2017](https://arxiv.org/abs/1703.02014) and Raphael Bost ([his website](https://raphael.bost.fyi/se_references/)) whose work has motivated us to make this list.
