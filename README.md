@@ -8,9 +8,9 @@ This is a curated list of resources about **Searchable Symmetric Enryption (SSE)
 	- [Introductory Papers](#introductory-papers)
 	- [Surveys](#surveys)
 	- [Different Aspects](#different-aspects)
-	- [Attacks](#attacks)
 	- [Blogs](#blogs)
 	- [Videos](#videos)
+	- [Attacks](#attacks)
 - [Implementations](#implementations)  
   	- [Constructions](#constructions)
 	- [Systems](#systems)
@@ -33,6 +33,12 @@ This is a curated list of resources about **Searchable Symmetric Enryption (SSE)
 ### Different Aspects
 
 
+### Blogs
+
+
+### Videos
+
+
 ### Attacks
 
 - [Islam et al. 2012], [Access Pattern disclosure on Searchable Encryption: Ramification, Attack and Mitigation](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/06_1.pdf)
@@ -46,11 +52,6 @@ This is a curated list of resources about **Searchable Symmetric Enryption (SSE)
 - [Bost et al. 2017], [Thwarting Leakage Abuse Attacks against Searchable Encryption -- A Formal Approach and Applications to Database Padding](https://eprint.iacr.org/2017/1060)
 - [Ning et al. 2018], [Passive Attacks Against Searchable Encryption](https://ieeexplore.ieee.org/abstract/document/8443434/)
 
-
-### Blogs
-
-
-### Videos
 
 
 ## Implementations
