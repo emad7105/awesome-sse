@@ -35,14 +35,17 @@ This is a curated list of resources about **Searchable Symmetric Enryption (SSE)
 
 ### Attacks
 
+- [Islam et al. 2012], [Access Pattern disclosure on Searchable Encryption: Ramification, Attack and Mitigation](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2017/09/06_1.pdf)
+- [Liu et al. 2013], [Search Pattern Leakage in Searchable Encryption: Attacks and New Construction](https://eprint.iacr.org/2013/163.pdf)
 - [Naveed et al. 2015], [Inference Attacks on Property-Preserving Encrypted Databases](https://cs.brown.edu/~seny/pubs/edb.pdf), ([slides](https://rwc.iacr.org/2016/Slides/rwc16-wright.pdf))
-- [], []()
-- [], []()
-- [], []()
-- [], []()
+- [Grubbs et al. 2016], [Breaking Web Applications Built On Top of Encrypted Data](https://eprint.iacr.org/2016/920)
 - [Zhang et al. 2016], [All Your Queries Are Belong to Us: The Power of File-Injection Attacks on Searchable Encryption](https://eprint.iacr.org/2016/172)
 - [Cash et al. 2016], [Leakage-Abuse Attacks Against Searchable Encryption](https://eprint.iacr.org/2016/718)
+- [Grubbs et al. 2017], [Why Your Encrypted Database Is Not Secure](https://eprint.iacr.org/2017/468.pdf)
+- [Giraud et al. 2017], [Practical Passive Leakage-Abuse Attacks Against Symmetric Searchable Encryption](https://eprint.iacr.org/2017/046.pdf)
 - [Bost et al. 2017], [Thwarting Leakage Abuse Attacks against Searchable Encryption -- A Formal Approach and Applications to Database Padding](https://eprint.iacr.org/2017/1060)
+- [Ning et al. 2018], [Passive Attacks Against Searchable Encryption](https://ieeexplore.ieee.org/abstract/document/8443434/)
+
 
 ### Blogs
 
