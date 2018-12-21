@@ -35,6 +35,14 @@ This is a curated list of resources about **Searchable Symmetric Enryption (SSE)
 
 ### Attacks
 
+- [Naveed et al. 2015], [Inference Attacks on Property-Preserving Encrypted Databases](https://cs.brown.edu/~seny/pubs/edb.pdf), ([slides](https://rwc.iacr.org/2016/Slides/rwc16-wright.pdf))
+- [], []()
+- [], []()
+- [], []()
+- [], []()
+- [Zhang et al. 2016], [All Your Queries Are Belong to Us: The Power of File-Injection Attacks on Searchable Encryption](https://eprint.iacr.org/2016/172)
+- [Cash et al. 2016], [Leakage-Abuse Attacks Against Searchable Encryption](https://eprint.iacr.org/2016/718)
+- [Bost et al. 2017], [Thwarting Leakage Abuse Attacks against Searchable Encryption -- A Formal Approach and Applications to Database Padding](https://eprint.iacr.org/2017/1060)
 
 ### Blogs
 
