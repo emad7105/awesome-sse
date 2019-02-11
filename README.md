@@ -35,7 +35,7 @@ This is a curated list of resources about **Searchable Symmetric Enryption (SSE)
 - [Chang et al. 2005], [Privacy Preserving Keyword Searches on Remote Encrypted Data.](https://pdfs.semanticscholar.org/62b0/603324e12755abeba2602ffdecb23937e7e0.pdf)
 - [Stefanov et al. 2014], [Practical Dynamic Searchable Encryption with Small Leakage](https://eprint.iacr.org/2013/832.pdf)
 - [Rafaël Bost. 2016], [Σoφoς – Forward Secure Searchable Encryption](https://eprint.iacr.org/2016/728.pdf)
-- [Bost et al. 2017], [Σoφoς – Forward Secure Searchable Encryption](https://pure.royalholloway.ac.uk/portal/files/28610034/805.pdf)
+- [Bost et al. 2017], [Forward and Backward Private Searchable Encryption from Constrained Cryptographic Primitives](https://pure.royalholloway.ac.uk/portal/files/28610034/805.pdf)
 - [Chamani et al. 2018], [New Constructions for Forward and Backward Private
 Symmetric Searchable Encryption](http://home.cse.ust.hk/~jgc/Index_files/New-Constructions-for-Forward-and-Backward-Private-Symmetric-Searchable-Encryption.pdf)
 - [Sun et al 2018], [Practical Backward-Secure Searchable Encryption from Symmetric Puncturable Encryption](https://dl.acm.org/citation.cfm?id=3243782)
