@@ -46,6 +46,7 @@ Symmetric Searchable Encryption](http://home.cse.ust.hk/~jgc/Index_files/New-Con
 #### 
 
 ### Blogs
+- [Mattew Green, 2019],  (Attack of the week: searchable encryption and the ever-expanding leakage function)[https://blog.cryptographyengineering.com/2019/02/11/attack-of-the-week-searchable-encryption-and-the-ever-expanding-leakage-function/]
 
 
 ### Videos
@@ -59,6 +60,7 @@ Symmetric Searchable Encryption](http://home.cse.ust.hk/~jgc/Index_files/New-Con
 - [Cash et al. 2015], [Leakage-Abuse Attacks Against Searchable Encryption](https://eprint.iacr.org/2016/718)
 - [Grubbs et al. 2016], [Breaking Web Applications Built On Top of Encrypted Data](https://eprint.iacr.org/2016/920)
 - [Zhang et al. 2016], [All Your Queries Are Belong to Us: The Power of File-Injection Attacks on Searchable Encryption](https://eprint.iacr.org/2016/172)
+- [Kellaris et al. 2016], [Generic Attacks on Secure Outsourced Databases](https://scholar.harvard.edu/files/gkellaris/files/genericattacks.pdf)
 - [Grubbs et al. 2017], [Why Your Encrypted Database Is Not Secure](https://eprint.iacr.org/2017/468.pdf)
 - [Giraud et al. 2017], [Practical Passive Leakage-Abuse Attacks Against Symmetric Searchable Encryption](https://eprint.iacr.org/2017/046.pdf)
 - [Bost et al. 2017], [Thwarting Leakage Abuse Attacks against Searchable Encryption -- A Formal Approach and Applications to Database Padding](https://eprint.iacr.org/2017/1060)
