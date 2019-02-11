@@ -46,7 +46,7 @@ Symmetric Searchable Encryption](http://home.cse.ust.hk/~jgc/Index_files/New-Con
 #### 
 
 ### Blogs
-- [Mattew Green, 2019],  (Attack of the week: searchable encryption and the ever-expanding leakage function)[https://blog.cryptographyengineering.com/2019/02/11/attack-of-the-week-searchable-encryption-and-the-ever-expanding-leakage-function/]
+- [Mattew Green, 2019],  [Attack of the week: searchable encryption and the ever-expanding leakage function](https://blog.cryptographyengineering.com/2019/02/11/attack-of-the-week-searchable-encryption-and-the-ever-expanding-leakage-function/)
 
 
 ### Videos
