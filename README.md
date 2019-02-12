@@ -64,7 +64,9 @@ Symmetric Searchable Encryption](http://home.cse.ust.hk/~jgc/Index_files/New-Con
 - [Grubbs et al. 2017], [Why Your Encrypted Database Is Not Secure](https://eprint.iacr.org/2017/468.pdf)
 - [Giraud et al. 2017], [Practical Passive Leakage-Abuse Attacks Against Symmetric Searchable Encryption](https://eprint.iacr.org/2017/046.pdf)
 - [Bost et al. 2017], [Thwarting Leakage Abuse Attacks against Searchable Encryption -- A Formal Approach and Applications to Database Padding](https://eprint.iacr.org/2017/1060)
+- [Lacharité et al. 2017], [Improved Reconstruction Attacks on Encrypted Data Using Range Query Leakage](https://eprint.iacr.org/2017/701)
 - [Ning et al. 2018], [Passive Attacks Against Searchable Encryption](https://ieeexplore.ieee.org/abstract/document/8443434/)
+- [Grubbs et al. 2019], [Learning to Reconstruct: Statistical Learning Theory and Encrypted Database Attacks](https://eprint.iacr.org/2019/011.pdf)
 
 
 
