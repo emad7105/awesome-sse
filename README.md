@@ -84,6 +84,7 @@ Symmetric Searchable Encryption](http://home.cse.ust.hk/~jgc/Index_files/New-Con
 - [], Monomi
 - [], Opaque
 - [], ZeroDB
+- [], HardINDX
 
 ## Acknowledgements
 I would like to thank all the smart people who have started this exciting field of security and cryptography, and those who have contributed to this relatively young research area. We thank [Fuller et al. 2017](https://arxiv.org/abs/1703.02014) and Raphael Bost ([his website](https://raphael.bost.fyi/se_references/)) whose work has motivated us to make this list.
