@@ -28,7 +28,7 @@ This is a curated list of resources about **Searchable Symmetric Enryption (SSE)
 ### Surveys
 
 - [Bösch et al. 2015], [A Survey of Provably Secure Searchable Encryption](https://dl.acm.org/citation.cfm?id=2636328)
-- [Poh et al. 2017], [https://dl.acm.org/citation.cfm?id=3064005]
+- [Poh et al. 2017], [Searchable Symmetric Encryption: Designs and Challenges](https://dl.acm.org/citation.cfm?id=3064005)
 - [Fuller et al. 2017], [SoK: Cryptographically Protected Database Search](https://arxiv.org/abs/1703.02014)
 
 ### Different Aspects
