@@ -52,7 +52,8 @@ Symmetric Searchable Encryption](http://home.cse.ust.hk/~jgc/Index_files/New-Con
 - [Demertzis et al. 2017], [Fast Searchable Encryption With Tunable Locality](https://dl.acm.org/doi/10.1145/3035918.3064057)
 
 #### Verfiability
-#### 
+- [Kurosowa et al. 2012], [UC-Secure Searchable Symmetric Encryption](https://ifca.ai/pub/fc12/73970279.pdf)
+- [Bost et al. 2016], [Verifiable Dynamic Symmetric Searchable Encryption: Optimality and Forward Security](https://eprint.iacr.org/2016/062)
 
 ### Blogs
 - [Mattew Green, 2019],  [Attack of the week: searchable encryption and the ever-expanding leakage function](https://blog.cryptographyengineering.com/2019/02/11/attack-of-the-week-searchable-encryption-and-the-ever-expanding-leakage-function/)
