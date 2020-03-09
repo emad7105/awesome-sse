@@ -74,18 +74,18 @@ Symmetric Searchable Encryption](http://home.cse.ust.hk/~jgc/Index_files/New-Con
 ## Implementations
 
 ### Constructions
-- [], Clusion
-- [], OpenSSE
+- [Clusion](https://github.com/encryptedsystems/Clusion)
+- [OpenSSE](https://opensse.github.io/)
 
 ### Systems
 
-- [], CryptDB
-- [], StealthDB
-- [], Arx
-- [], Monomi
-- [], Opaque
-- [], ZeroDB
-- [], HardINDX
+- [CryptDB](https://css.csail.mit.edu/cryptdb/)
+- [StealthDB](https://github.com/cryptograph/stealthdb)
+- [Arx](https://eprint.iacr.org/2016/591.pdf)
+- [Monomi](https://dspace.mit.edu/bitstream/handle/1721.1/87023/tu-monomi-cr-vldb13.pdf?sequence=1&isAllowed=y)
+- [Opaque](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/zheng)
+- [ZeroDB](https://github.com/zerodb/zerodb)
+- [HardINDX](https://link.springer.com/chapter/10.1007/978-3-319-61176-1_22)
 
 ## Acknowledgements
 I would like to thank all the smart people who have started this exciting field of security and cryptography, and those who have contributed to this relatively young research area. We thank [Fuller et al. 2017](https://arxiv.org/abs/1703.02014) and Raphael Bost ([his website](https://raphael.bost.fyi/se_references/)) whose work has motivated us to make this list.
