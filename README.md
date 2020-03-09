@@ -42,7 +42,15 @@ Symmetric Searchable Encryption](http://home.cse.ust.hk/~jgc/Index_files/New-Con
 - [Sun et al 2018], [Practical Backward-Secure Searchable Encryption from Symmetric Puncturable Encryption](https://dl.acm.org/citation.cfm?id=3243782)
 
 
+#### Multiple Keywords Search
+- [Cashe et al. 2013], [Highly-Scalable Searchable Symmetric Encryption with Support for Boolean Queries](https://eprint.iacr.org/2013/169.pdf)
+- [Kamara et al. 2017], [Boolean Searchable Symmetric Encryption with Worst-Case Sub-Linear](https://eprint.iacr.org/2017/126.pdf)
+
 #### Data Locality
+- [Cash et al. 2014], [The Locality of Searchable Symmetric Encryption](https://www.iacr.org/archive/eurocrypt2014/84410155/84410155.pdf)
+- [Asharov et al. 2016], [Searchable symmetric encryption: optimal locality in linear space via two-dimensional balanced allocations](https://eprint.iacr.org/2016/251)
+- [Demertzis et al. 2017], [Fast Searchable Encryption With Tunable Locality](https://dl.acm.org/doi/10.1145/3035918.3064057)
+
 #### Verfiability
 #### 
 
