@@ -95,6 +95,8 @@ Symmetric Searchable Encryption](http://home.cse.ust.hk/~jgc/Index_files/New-Con
 - [Opaque](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/zheng)
 - [ZeroDB](https://github.com/zerodb/zerodb)
 - [HardINDX](https://link.springer.com/chapter/10.1007/978-3-319-61176-1_22)
+- [DataBlinder](https://dl.acm.org/doi/10.1145/3366626.3368132)
+- [CryptDICE](https://www.sciencedirect.com/science/article/abs/pii/S0306437920301289)
 
 ## Acknowledgements
 I would like to thank all the smart people who have started this exciting field of security and cryptography, and those who have contributed to this relatively young research area. We thank [Fuller et al. 2017](https://arxiv.org/abs/1703.02014) and Raphael Bost ([his website](https://raphael.bost.fyi/se_references/)) whose work has motivated us to make this list.
